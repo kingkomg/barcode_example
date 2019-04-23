@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarcodeExample</string>
+    <string name="list_books_text">scan</string>
+</resources>
